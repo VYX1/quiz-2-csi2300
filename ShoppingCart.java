@@ -23,3 +23,5 @@ public class ShoppingCart {
         System.out.println("Total cost: $" + total);
     }
 }
+
+// uploaded to https://github.com/VYX1/quiz-2-csi2300
